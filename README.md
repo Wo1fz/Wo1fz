@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Wo1fz
-- 👀 I’m interested in software development.
-- 🌱 I’m currently learning how to play around with git
+- 🌱 I’m a fresh graduate
 
 <!---
 Wo1fz/Wo1fz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
